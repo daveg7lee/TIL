@@ -7,6 +7,10 @@ Today I Learned
 2. 너무 무리하지 않기 (하기 싫을땐 쉬기)
 3. 이해가 안간다고 포기하지 말기
 
+## Algorithms
+
+[Big-O-Notation](https://velog.io/@kihyun/Big-O-Notation-%EC%A0%90%EA%B7%BC-%ED%91%9C%EA%B8%B0%EB%B2%95)
+
 ## Introduction to Algorithms
 
 [0. 알고리즘 공부를 시작하며](https://url.kr/owmla9)
