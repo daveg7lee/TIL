@@ -16,3 +16,5 @@ Today I Learned
 [0. 알고리즘 공부를 시작하며](https://url.kr/owmla9)
 
 [1. 힙 정렬](https://velog.io/@kihyun/1.-%ED%9E%99-%EC%A0%95%EB%A0%AC-1)
+
+[2. 우선순위 큐](https://velog.io/@kihyun/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90)
