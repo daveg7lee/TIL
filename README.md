@@ -18,6 +18,8 @@ Today I Learned
 ## Introduction to Algorithms
 
 [0. 알고리즘 공부를 시작하며](https://url.kr/owmla9)
+[0. Why should we study algorithms? — [Introduction to Algorithms]
+](https://daveg7lee.medium.com/why-should-we-study-algorithms-introduction-to-algorithms-71a7eb729a3e)
 
 [1. 힙 정렬](https://velog.io/@kihyun/1.-%ED%9E%99-%EC%A0%95%EB%A0%AC-1)
 
