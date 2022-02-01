@@ -26,10 +26,12 @@ Today I Learned
 ### 힙 정렬
 
 [한글](https://velog.io/@kihyun/1.-%ED%9E%99-%EC%A0%95%EB%A0%AC-1)
+[영어](https://daveg7lee.medium.com/heap-sort-introduction-to-algorithms-e2b5c517e83f)
 
 ### 우선순위 큐
 
 [한글](https://velog.io/@kihyun/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90)
+[영어](https://daveg7lee.medium.com/priority-queue-introduction-to-algorithms-2195ddaec97a)
 
 ### 퀵 정렬
 
