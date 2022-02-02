@@ -38,3 +38,7 @@ Today I Learned
 ### 퀵 정렬
 
 [한글](https://velog.io/@kihyun/%ED%80%B5-%EC%A0%95%EB%A0%AC)
+
+#### 퀵 정렬의 성능
+
+[한글](https://velog.io/@kihyun/%ED%80%B5-%EC%A0%95%EB%A0%AC%EC%9D%98-%EC%84%B1%EB%8A%A5)
