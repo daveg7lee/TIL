@@ -7,6 +7,10 @@ Today I Learned
 2. 너무 무리하지 않기 (하기 싫을땐 쉬기)
 3. 이해가 안간다고 포기하지 말기
 
+## Blockchain
+
+[Cosmos](https://velog.io/@kihyun/Cosmos)
+
 ## Web
 
 [HTTP Protocol](https://velog.io/@kihyun/HTTP-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
