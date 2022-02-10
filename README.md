@@ -15,6 +15,10 @@ Today I Learned
 
 [HTTP Protocol](https://velog.io/@kihyun/HTTP-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
 
+### Framework
+
+[Svelte](https://velog.io/@kihyun/Svelte-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+
 ## Algorithms
 
 [Big-O-Notation](https://velog.io/@kihyun/Big-O-Notation-%EC%A0%90%EA%B7%BC-%ED%91%9C%EA%B8%B0%EB%B2%95)
