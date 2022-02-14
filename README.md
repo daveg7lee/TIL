@@ -15,6 +15,8 @@ Today I Learned
 
 [HTTP Protocol](https://velog.io/@kihyun/HTTP-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
 
+[HTTP Protocol (English)](https://daveg7lee.medium.com/http-b767aad88295)
+
 ### Framework
 
 [Svelte](https://velog.io/@kihyun/Svelte-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
